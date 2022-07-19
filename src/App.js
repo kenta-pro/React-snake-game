@@ -2,7 +2,6 @@ import Button from "./components/Button";
 import Field from "./components/Field";
 import ManipulationPanel from "./components/ManipulationPanel";
 import Navigation from "./components/Navigation";
-import "./App.css";
 import { initFields, getFoodPosition } from "./utils";
 import { useCallback, useEffect, useState } from "react";
 
